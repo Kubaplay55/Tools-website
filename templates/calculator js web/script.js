@@ -60,3 +60,7 @@ buttons.forEach(button => {
     }
   });
 });
+
+document.addEventListener('DOMContentLoaded', function() {
+  // Kod zdarzeń
+});
